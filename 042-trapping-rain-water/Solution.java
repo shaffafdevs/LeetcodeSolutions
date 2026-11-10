@@ -27,6 +27,6 @@ class Solution {
     public static void main(String[] args) {
         Solution sol = new Solution();
         int[] height = {0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
-        System.out.println(sol.trap(height));  // expected output: 6
+        System.out.println(sol.trap(height));
     }
 }
